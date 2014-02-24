@@ -1,11 +1,11 @@
 /**
  * Created with JetBrains WebStorm.
  * User: sheyz
- * Date: 13-12-16
+ * Date: 14-02-24
  * Time: 下午4:54
  * To change this template use File | Settings | File Templates.
  * param>>>
- * dataDiv ：数据ul的外部div，可控制高度
+ * dataDiv ：数据ul的外部div，可控制高度---
  * dataCurrent ：当前选中数据li的样式
  * dataPointer ：数据指向
  * dataSynchronous ：同步数据的id到另一dom元素中
